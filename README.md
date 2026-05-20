@@ -57,8 +57,8 @@ Visit the live website here:
 
 ## 📬 Contact Me
 
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+- Email: darshilmodi99@gmail.com
+- LinkedIn: https://www.linkedin.com/in/darshil-modi15/
 - GitHub: https://github.com/darshilmodi15
 
 ---
